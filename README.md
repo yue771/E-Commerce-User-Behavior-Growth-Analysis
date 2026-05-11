@@ -36,6 +36,11 @@ This project simulates real-world business analysis scenarios commonly faced by 
 
 # Dataset
 
+Due to the large size of the original dataset, only a sampled subset was used for analysis.
+
+Original dataset:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
 Source:
 
 - Kaggle E-Commerce Behavior Dataset
