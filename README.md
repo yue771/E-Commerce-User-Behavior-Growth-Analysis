@@ -89,7 +89,7 @@ Key findings:
 - Most users only browse products
 - Significant drop-off occurs before purchase
 - User-level conversion analysis provides more realistic insights
-- ![User Behavior Funnel](user_behavior_funnel_chart.png)
+- ![User Behavior Funnel](charts/user_behavior_funnel_chart.png)
 
 
 ---
@@ -105,7 +105,7 @@ Business interpretation:
 
 - Conversion opportunities exist throughout the customer journey
 - Checkout friction and weak purchase intent may impact sales performance
-- ![Conversion Rates](conversion_rates_chart.png)
+- ![Conversion Rates](charts/conversion_rates_chart.png)
 
 ---
 
@@ -134,7 +134,7 @@ Identified:
 
 - Most viewed categories
 - Most purchased categories
-- ![Top 10 Product Categories](top_10_product_categories_chart.png)
+- ![Top 10 Product Categories](charts/top_10_product_categories_chart.png)
 
 Findings:
 
@@ -149,7 +149,7 @@ Analyzed top-performing brands based on:
 
 - User activity
 - Purchase behavior
-- ![Top 10 Brands](top_10_brands_chart.png)
+- ![Top 10 Brands](charts/top_10_brands_chart.png)
 
 Key brands identified:
 
@@ -183,8 +183,8 @@ Segmented users into:
 - Low-value users
 - Medium-value users
 - High-value users
-- ![Top 10 High-Value Users](top_10_gigh-value_users.png)
-- ![User Segmentation](user_segmentation_charts.png)
+- ![Top 10 High-Value Users](charts/top_10_gigh-value_users.png)
+- ![User Segmentation](charts/user_segmentation_charts.png)
 
 Potential applications:
 
@@ -200,8 +200,8 @@ Potential applications:
 Built an RFM-style customer analysis framework using:
 
 - Recency
-- Frequency![Frequency Distribution](Frequency_Distribution_charts.png)
-- Monetary![Monetary Distribution](Monetary_Distribution_charts.png)
+- Frequency![Frequency Distribution](charts/Frequency_Distribution_charts.png)
+- Monetary![Monetary Distribution](charts/Monetary_Distribution_charts.png)
 
 Purpose:
 
@@ -221,7 +221,7 @@ Explored the relationship between:
 Key finding:
 
 - Frequent customers tend to generate higher overall revenue
-- ![Frequency vs Monetary](Frequency_vs_Monetary_charts.png)
+- ![Frequency vs Monetary](charts/Frequency_vs_Monetary_charts.png)
 
 Business implication:
 
